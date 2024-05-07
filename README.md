@@ -34,8 +34,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0badran&show_icons=true&locale=en&layout=compact" alt="0badran" />
 </p>
 
-<p align="center">
-  &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=0badran&show_icons=true&locale=en" alt="0badran" />
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=0badran&show_icons=true&locale=en" alt="0badran" />
 </p>
 
 ## <h3 align="left">Connect with me:</h3>
