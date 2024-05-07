@@ -8,8 +8,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed</h1>
 
 <h3 align="center">A passionate frontend developer.</h3>
+
 <p align="left"> 
+  <a href="https://github.com/0badran">
   <img src="https://komarev.com/ghpvc/?username=0badran&label=Profile%20views&color=0e75b6&style=flat" alt="0badran" />
+  </a>
 </p>
 
 - 🔭 I’m currently working on **Nextjs**
@@ -25,7 +28,9 @@
 - ⚡ Fun fact **I always go back to look at the foundation.**
 
 <p align="center">
+  <a href="https://github.com/0badran">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=0badran&" alt="0badran" />
+  </a>
 </p>
 
 ## <h3 align="left">Languages and Tools:</h3>
@@ -33,8 +38,10 @@
 
 <h3 align="left">GitHub Status:</h3>
 <p align="left">
+  <a href="https://github.com/0badran">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0badran&show_icons=true&locale=en&layout=compact" alt="0badran" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=0badran&show_icons=true&locale=en" alt="0badran" />
+  </a>
 </p>
 
   
