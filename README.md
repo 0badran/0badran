@@ -1,3 +1,5 @@
+
+<img align="center" src="https://i.giphy.com/h408T6Y5GfmXBKW62l.webp" alt="greet image"/>
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
