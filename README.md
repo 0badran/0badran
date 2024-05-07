@@ -32,7 +32,7 @@
 <h3 align="left">GitHub Status:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0badran&show_icons=true&locale=en&layout=compact" alt="0badran" />
-  <img align="right src="https://github-readme-stats.vercel.app/api?username=0badran&show_icons=true&locale=en" alt="0badran" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=0badran&show_icons=true&locale=en" alt="0badran" />
 </p>
 
   
