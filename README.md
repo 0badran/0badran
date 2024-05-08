@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed</h1>
 
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">A passionate Frontend developer.</h3>
 
 <p align="left"> 
   <a href="https://github.com/0badran">
