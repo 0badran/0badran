@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/0badran">
-    <img src="[blob:https://carbon.now.sh/82cde347-905c-478e-9690-d856ea3dd6b4](https://1drv.ms/i/s!AgzdrzV12tnKoydnvpg8ElBg7wig?e=JOPAYn)" alt="greet image" />
+    <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*OohqW5DGh9CQS4hLY5FXzA.png" alt="greet image" />
   </a>
 </p>
 
