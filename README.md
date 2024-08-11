@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **ahmedbadran_@outlook.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!AgzdrzV12tnKow_u4lqucKFb7vys?e=fmJb2L](https://1drv.ms/b/s!AgzdrzV12tnKow_u4lqucKFb7vys?e=fmJb2L)
+- 📄 Know about my experiences [CV](https://1drv.ms/b/s!AgzdrzV12tnKpR8jAcZDGVs29Gd-)
 
 - ⚡ Fun fact **I always go back to look at the foundation.**
 
