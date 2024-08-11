@@ -15,9 +15,9 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Nextjs**
+- 🔭 I’m currently working on **Nextjs Framework**
 
-- 🌱 I’m currently learning **Nextjs, CS50**
+- 🌱 I’m currently learning **Nextjs Framework**
 
 - 👯 I’m looking to collaborate on **FullStack Project**
 
