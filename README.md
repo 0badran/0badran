@@ -1,8 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/0badran">
-    <img src="https://1drv.ms/i/s!AgzdrzV12tnKg588O5j3FegKZ30GlA" alt="greet image" />
-  </a>
+  <a href="https://ibb.co/sH8BWn3"><img src="https://i.ibb.co/sH8BWn3/carbon.png" alt="carbon" border="0" /></a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed</h1>
