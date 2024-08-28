@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://ibb.co/sH8BWn3"><img src="https://i.ibb.co/sH8BWn3/carbon.png" alt="carbon" border="0" /></a>
+  <a href="#"><img src="https://i.ibb.co/tXVdLgC/carbon.png" alt="cover" border="0" /></a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed</h1>
