@@ -1,11 +1,5 @@
-
-<p align="center">
-  <a href="#"><img src="https://i.ibb.co/tXVdLgC/carbon.png" alt="cover" border="0" /></a>
-</p>
-
-<h1 align="center">Hi 👋, I'm Ahmed Mohamed</h1>
-
-<h3 align="center">A passionate Frontend developer.</h3>
+<h1 align="center">Hi 👋, I'm Ahmed</h1>
+<h3 align="center">A passionate frontend developer from Egypt</h3>
 
 <p align="left"> 
   <a href="https://github.com/0badran">
@@ -39,7 +33,7 @@
 ## <h3 align="left">🏆GitHub Status:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0badran&show_icons=true&theme=dark&locale=en&layout=compact" alt="0badran" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0badran&show_icons=true&theme=dark&locale=en" alt="0badran" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=0badran&show_icons=true&theme=dark&locale=en" alt="0badran" /></p>
 
   
 
