@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-<p align="left"> 
-  <a href="https://github.com/0badran">
-  <img src="https://komarev.com/ghpvc/?username=0badran&label=Profile%20views&color=0e75b6&style=flat" alt="0badran" />
-  </a>
-</p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0badran&label=Profile%20views&color=0e75b6&style=plastic" alt="0badran" /> </p>
 - 🔭 I’m currently working on **Nextjs projects**
 
 - 🌱 I’m currently learning **grokking-algorithms**
