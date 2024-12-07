@@ -36,7 +36,7 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=0badran&show_icons=true&theme=dark&locale=en" alt="0badran" /></p>
 </div>
-  
+  <br/>
 
 ## <h3 align="left">📧Connect with me:</h3>
 <p align="left">
