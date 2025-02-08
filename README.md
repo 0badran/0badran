@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ahmedbadran_@outlook.com**
 
-- 📄 Know about my experiences [CV](https://1drv.ms/b/s!AgzdrzV12tnKpR8jAcZDGVs29Gd-)
+- 📄 Know about my experiences [CV](https://1drv.ms/b/c/cad9da7535afdd0c/EbJrq_NYsztLv9YNy3DaGV0BFC3OSolNTmReEv0Yj55PwA?e=snICfT)
 
 - ⚡ Fun fact **javaScript is magic.**
 
@@ -32,6 +32,6 @@
 
 ## <h3 align="left">📧Connect with me:</h3>
 <p>
-<a href="https://linkedin.com/in/ahmedbadran72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedbadran72" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/0badran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedbadran72" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21890530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21890530" height="30" width="40" /></a>
 </p>
