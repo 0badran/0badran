@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open-source projects**
 
-- 💬 Ask me about **react, nextjs**
+- 💬 Ask me about **Reactjs, Nextjs**
 
 - 📫 How to reach me **ahmedbadran_@outlook.com**
 
