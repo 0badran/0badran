@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Nextjs projects**
 
-- 🌱 I’m currently learning **grokking-algorithms**
+- 🌱 I’m currently learning **Frontend-Tools**
 
 - 👯 I’m looking to collaborate on **Open-source projects**
 
