@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ahmedbadran_@outlook.com**
 
-- 📄 Know about my experiences <a target='_blank' href='https://1drv.ms/b/c/cad9da7535afdd0c/EbJrq_NYsztLv9YNy3DaGV0BFC3OSolNTmReEv0Yj55PwA?e=snICfT'>CV</a>
+- 📄 Know about my experiences <a target='_blank' href='https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy9jYWQ5ZGE3NTM1YWZkZDBjL0ViSnJxX05Zc3p0THY5WU55M0RhR1YwQkZDM09Tb2xOVG1SZUV2MFlqNTVQd0E%5FZT1zbklDZlQ&cid=CAD9DA7535AFDD0C&id=CAD9DA7535AFDD0C%21sf3ab6bb2b3584b3bbfd60dcb70da195d&parId=CAD9DA7535AFDD0C%214758&o=OneUp'>CV</a>
 
 - ⚡ Fun fact **javaScript is magic.**
 
