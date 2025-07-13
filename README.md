@@ -11,15 +11,146 @@
 
 - 💬 Ask me about **Reactjs, Nextjs**
 
-- 📫 How to reach me **ahmedbadran_@outlook.com**
+- 📫 How to reach me **0ahmedbadran@gmail.com**
 
-- 📄 Know about my experiences <a target='_blank' href='https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy9jYWQ5ZGE3NTM1YWZkZDBjL0ViSnJxX05Zc3p0THY5WU55M0RhR1YwQkZDM09Tb2xOVG1SZUV2MFlqNTVQd0E%5FZT1zbklDZlQ&cid=CAD9DA7535AFDD0C&id=CAD9DA7535AFDD0C%21sf3ab6bb2b3584b3bbfd60dcb70da195d&parId=CAD9DA7535AFDD0C%214758&o=OneUp'>CV</a>
+- 📄 Know about my experiences <a target='_blank' href='https://1drv.ms/b/c/cad9da7535afdd0c/EUTz3kRx1IlAnmmLk8P0aTMByazmjA8C08QEfc2oA7aucw?e=7vyYI6'>CV</a>
 
 - ⚡ Fun fact **javaScript is magic.**
 
 
 ## <h3 align="left">🛠️Languages and Tools:</h3>
-<div align="center"> <a href="https://www.nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/file-type-jest-icon-1854x2048-2w6gjixc.png" alt="jestjs" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" alt="nextjs" width="40" height="40"/> </a> <a href="https://zod.dev/" target="_blank" rel="noreferrer"> <img src="https://zod.dev/logo.svg" alt="zod" width="40" height="40"/> </a> <a href="https://zustand-demo.pmnd.rs" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/990a9efe0b9529eca38ca9e081bc7a97b18dff45/topics/zustand/zustand.png" alt="zustand" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/139895814?s=48&v=4" alt="shadcn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </div>
+<div align="center">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://mongodb.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
+      alt="mongodb"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://www.globalcloudteam.com/wp-content/uploads/2023/08/javascript.webp"
+      alt="javascript"
+      width="40"
+      height="40"
+    /> </a
+  ><a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png"
+      alt="nextjs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://opensourcealternatives.org/images/supabase.webp"
+      alt="supabase"
+      width="40"
+      height="40"
+      style="border-radius: 50%"
+    />
+  </a>
+  <a href="https://zod.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://files.svgcdn.io/logos/zod.png"
+      alt="zod"
+      width="40"
+      height="40"
+      style="border-radius: 50%"
+    />
+  </a>
+  <a href="https://neon.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://neon.com/favicon/favicon.png"
+      alt="neon"
+      width="40"
+      height="40"
+      style="border-radius: 50%"
+    />
+  </a>
+  <a href="https://orm.drizzle.team/" target="_blank" rel="noreferrer">
+    <img
+      src="https://images.opencollective.com/drizzle-orm/9405e48/logo/256.png"
+      alt="drizzle"
+      width="40"
+      height="40"
+      style="border-radius: 50%"
+    />
+  </a>
+  <a href="https://zustand-demo.pmnd.rs" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/github/explore/990a9efe0b9529eca38ca9e081bc7a97b18dff45/topics/zustand/zustand.png"
+      alt="zustand"
+      width="40"
+      height="40"
+      style="border-radius: 50%"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://avatars.githubusercontent.com/u/139895814?s=48&v=4"
+      alt="shadcn"
+      width="40"
+      height="40"
+      style="border-radius: 50%"
+    />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      alt="tailwind"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+      style="border-radius: 50%"
+    />
+  </a>
+</div>
 
 ## <h3 align="left">🏆GitHub Status:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0badran&show_icons=true&theme=dark&locale=en&layout=compact" alt="0badran" /></p>
