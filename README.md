@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0badran&label=Profile%20views&color=0e75b6&style=plastic" alt="0badran" /> </p>
 
-- 💬 Ask me about **Reactjs, Nextjs**
+- 💬 Ask me about: **Reactjs, Nextjs**
 
-- 📫 How to reach me **0ahmedbadran@gmail.com**
+- 📫 How to reach me: **0ahmedbadran@gmail.com**
 
-- 📄 Know about my experiences <a target='_blank' href='https://1drv.ms/b/c/cad9da7535afdd0c/EUTz3kRx1IlAnmmLk8P0aTMByazmjA8C08QEfc2oA7aucw?e=7vyYI6'>CV</a>
+- 📄 Know about my experiences: **<a target='_blank' href='https://1drv.ms/b/c/cad9da7535afdd0c/EUTz3kRx1IlAnmmLk8P0aTMByazmjA8C08QEfc2oA7aucw?e=7vyYI6'>CV</a>**
 
-- ⚡ Fun quote **javaScript is magic.**
+- ⚡ Fun quote: **javaScript is magic.**
 
 
 ## <h3 align="left">🛠️Languages and Tools:</h3>
