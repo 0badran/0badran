@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **0ahmedbadran@gmail.com**
 
-- 📄 Know about my experiences: **<a target='_blank' href='https://1drv.ms/b/c/cad9da7535afdd0c/EUTz3kRx1IlAnmmLk8P0aTMByazmjA8C08QEfc2oA7aucw?e=7vyYI6'>CV</a>**
+- 📄 Know about my experiences: **<a target="_blank" href="https://1drv.ms/b/c/cad9da7535afdd0c/EYOt9mCo_OdBs4jVvva-omABh9Ukhkm7Mpjd606hhk6fbw?e=sUX7mT">CV</a>**
 
 - ⚡ Fun quote: **javaScript is magic.**
 
