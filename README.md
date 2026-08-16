@@ -9,10 +9,89 @@
 
 - 📄 Know about my experiences: **<a target="_blank" href="https://1drv.ms/b/c/cad9da7535afdd0c/IQC2ikKNuul7RKcrMj8HtdDkAekdGzKyhHGuOLTOXTgT3cA?e=tKGmUD">CV</a>**
 
-- ⚡ Fun quote: **javaScript is magic.**
+- ⚡ Fun quote: **JavaScript is magic.**
+<h3 align="left">🛠️ Languages and Tools:</h3>
 
-## <h3 align="left">🛠️Languages and Tools:</h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<table>
+  <tr align="center">
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/><br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/><br/>
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/><br/>
+      <sub><b>React.js</b></sub>
+    </td>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/><br/>
+      <sub><b>Next.js</b></sub>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/><br/>
+      <sub><b>Angular</b></sub>
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" alt="Zustand" width="40" height="40"/><br/>
+      <sub><b>Zustand</b></sub>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" alt="TanStack Query" width="40" height="40"/><br/>
+      <sub><b>React Query</b></sub>
+    </td>
+    <td>
+      <img src="https://ui.shadcn.com/apple-touch-icon.png" alt="shadcn/ui" width="40" height="40"/><br/>
+      <sub><b>Shadcn/ui</b></sub>
+    </td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/><br/>
+      <sub><b>Tailwind CSS</b></sub>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40"/><br/>
+      <sub><b>Vite</b></sub>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/><br/>
+      <sub><b>Postman</b></sub>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/><br/>
+      <sub><b>Figma</b></sub>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/><br/>
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/><br/>
+      <sub><b>Linux</b></sub>
+    </td>
+  </tr>
+</table>
 
 ## <h3 align="left">📧Connect with me:</h3>
 <p>
