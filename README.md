@@ -1,99 +1,74 @@
-<h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">Software Developer/Frontend Developer</h3>
+<h1 align="center">Hi 👋, I'm Ahmed Badran</h1>
+<h3 align="center">Software Developer / Frontend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0badran&label=Profile%20views&color=0e75b6&style=plastic" alt="0badran" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=0badran&label=Profile%20views&color=6B7280&style=plastic" alt="0badran" />
+</p>
 
-- 💬 Ask me about: **Reactjs, Nextjs**
+* 💬 Ask me about: **React.js, Next.js**
+* 📫 How to reach me: **[0ahmedbadran@gmail.com](mailto:0ahmedbadran@gmail.com)**
+* 📄 Know about my experiences: **<a target="_blank" href="**[**https://1drv.ms/b/c/cad9da7535afdd0c/IQC2ikKNuul7RKcrMj8HtdDkAekdGzKyhHGuOLTOXTgT3cA?e=tKGmUD**](https://1drv.ms/b/c/cad9da7535afdd0c/IQC2ikKNuul7RKcrMj8HtdDkAekdGzKyhHGuOLTOXTgT3cA?e=tKGmUD)**">****CV****</a>**
+* ⚡ Fun quote: **JavaScript is magic.**
 
-- 📫 How to reach me: **0ahmedbadran@gmail.com**
-
-- 📄 Know about my experiences: **<a target="_blank" href="https://1drv.ms/b/c/cad9da7535afdd0c/IQC2ikKNuul7RKcrMj8HtdDkAekdGzKyhHGuOLTOXTgT3cA?e=tKGmUD">CV</a>**
-
-- ⚡ Fun quote: **JavaScript is magic.**
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
-<table>
-  <tr align="center">
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/><br/>
-      <sub><b>HTML5</b></sub>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/><br/>
-      <sub><b>CSS3</b></sub>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/><br/>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/><br/>
-      <sub><b>TypeScript</b></sub>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/><br/>
-      <sub><b>React.js</b></sub>
-    </td>
-    <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/><br/>
-      <sub><b>Next.js</b></sub>
-    </td>
-  </tr>
-  <tr align="center">
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/><br/>
-      <sub><b>Angular</b></sub>
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" alt="Zustand" width="40" height="40"/><br/>
-      <sub><b>Zustand</b></sub>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" alt="TanStack Query" width="40" height="40"/><br/>
-      <sub><b>React Query</b></sub>
-    </td>
-    <td>
-      <img src="https://ui.shadcn.com/apple-touch-icon.png" alt="shadcn/ui" width="40" height="40"/><br/>
-      <sub><b>Shadcn/ui</b></sub>
-    </td>
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/><br/>
-      <sub><b>Tailwind CSS</b></sub>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40"/><br/>
-      <sub><b>Vite</b></sub>
-    </td>
-  </tr>
-  <tr align="center">
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/><br/>
-      <sub><b>Node.js</b></sub>
-    </td>
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/><br/>
-      <sub><b>Git</b></sub>
-    </td>
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/><br/>
-      <sub><b>Postman</b></sub>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/><br/>
-      <sub><b>Figma</b></sub>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/><br/>
-      <sub><b>VS Code</b></sub>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/><br/>
-      <sub><b>Linux</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
 
-## <h3 align="left">📧Connect with me:</h3>
-<p>
-<a href="https://linkedin.com/in/0badran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedbadran72" height="30" width="40" /></a>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=white" alt="React.js"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+<img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logoColor=white" alt="Zustand"/>
+<img src="https://img.shields.io/badge/TanStack_Query-000000?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query"/>
+<img src="https://img.shields.io/badge/Shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn/ui"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+
 </p>
+
+<h3 align="left">©️ Featured Projects:</h3>
+
+<p align="center">
+
+<a href="https://github.com/0badran/shefa-pharm-ecommerce-website" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/0badran/shefa-pharm-ecommerce-website/main/public/screenshots/home.png"
+    alt="Shefa Pharm E-commerce"
+    width="200"
+    height="200"
+    style="object-fit: cover; border-radius: 10px;"
+  />
+</a>
+
+<a href="https://github.com/0badran/dahab-restaurant-website" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/0badran/dahab-restaurant/main/public/screenshots/home_arabic.jpg"
+    alt="Dahab Restaurant"
+    width="200"
+    height="200"
+    style="object-fit: cover; border-radius: 10px;"
+  />
+</a>
+
+<a href="https://github.com/0badran/movies-app" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/0badran/movies-app/main/public/login.png"
+    alt="Movies App"
+    width="200"
+    height="200"
+    style="object-fit: cover; border-radius: 10px;"
+  />
+</a>
+
+</p>
+<h3 align="left">📧 Connect with me:</h3>
+
+<p>   <a href="https://linkedin.com/in/0badran" target="_blank">     <img       align="center"       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"       alt="ahmedbadran72"       height="30"       width="40"     />   </a> </p>
