@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Badran</h1>
+<h1 align="center">Hi, I'm Ahmed Badran</h1>
 <h3 align="center">Software Developer / Frontend Developer</h3>
 
 <p align="left">
@@ -10,7 +10,7 @@
 * 📃 Know about my experiences: **<a target="_blank" href="https://1drv.ms/b/c/cad9da7535afdd0c/IQDSTgsBq1RAS7p46OJn5Uy7AXDF60nhpWtDEQ1qTaRegAs?e=9ATyKM">****CV****</a>**
 * ⚡ Fun quote: **JavaScript is magic.**
 
-<h3 align="left">⚙️ Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
 
@@ -34,41 +34,35 @@
 
 </p>
 
-<h3 align="left">🌐 Featured Projects:</h3>
+<h3 align="left">Featured Projects:</h3>
 
-<p align="center">
-
-<a href="https://shefa-pharm-ecommerce-website.vercel.app/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/0badran/shefa-pharm-ecommerce-website/main/public/screenshots/home.png"
-    alt="Shefa Pharm E-commerce"
-    width="200"
-    height="200"
-    style="object-fit: cover; border-radius: 10px;"
-  />
-</a>
-
-<a href="https://dahab-restaurant.vercel.app/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/0badran/dahab-restaurant/main/public/screenshots/home_arabic.jpg"
-    alt="Dahab Restaurant"
-    width="200"
-    height="200"
-    style="object-fit: cover; border-radius: 10px;"
-  />
-</a>
-
-<a href="https://movies-app-badran.vercel.app/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/0badran/movies-app/main/public/login.png"
-    alt="Movies App"
-    width="200"
-    height="200"
-    style="object-fit: cover; border-radius: 10px;"
-  />
-</a>
-
+<ul>
+  <li>
+    <a href="https://a-g-fashion.com/" target="_blank">
+      <strong>A&G Fashion</strong>
+    </a> 
+    (E-Commerce / Fashion)
+  </li>
+  <li>
+    <a href="https://shefa-pharm.co.il/" target="_blank">
+      <strong>Shefa Pharm</strong>
+    </a> 
+    (E-Commerce / Pharmacy)
+  </li>
+  <li>
+    <a href="https://dahab-restaurant.vercel.app/" target="_blank">
+      <strong>Dahab Restaurant</strong>
+    </a> 
+    (Restaurant & Ordering System)
+  </li>
+  <li>
+    <a href="https://movies-app-badran.vercel.app/" target="_blank">
+      <strong>Movies App</strong>
+    </a> 
+    (Entertainment & Web App)
+  </li>
+</ul>
 </p>
-<h3 align="left">📧 Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 
 <p>   <a href="https://linkedin.com/in/0badran" target="_blank">     <img       align="center"       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"       alt="ahmedbadran72"       height="30"       width="40"     />   </a> </p>
