@@ -62,10 +62,10 @@
     (Restaurant & Ordering System)
   </li>
   <li>
-    <a href="https://movies-app-badran.vercel.app/" target="_blank">
-      <strong>Movies App</strong>
+    <a href="https://safehealthme.com" target="_blank">
+      <strong>Safe Health</strong>
     </a> 
-    (Entertainment & Web App)
+    (Healthcare & Medical Tourism)
   </li>
 </ul>
 </p>
