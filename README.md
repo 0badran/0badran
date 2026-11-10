@@ -7,7 +7,7 @@
 
 * 💬 Ask me about: **React.js, Next.js**
 * 📧 How to reach me: **[E-mail](mailto:0ahmedbadran@gmail.com)**
-* 📃 Know about my experiences: **<a target="_blank" href="https://1drv.ms/b/c/cad9da7535afdd0c/IQDSTgsBq1RAS7p46OJn5Uy7AXDF60nhpWtDEQ1qTaRegAs?e=9ATyKM">****CV****</a>**
+* 📃 Know about my experiences: **<a target="_blank" href="https://drive.google.com/file/d/1ELqsLIutSc-85DTKnH_oDp3_myiNpOzQ/view">****CV****</a>**
 * ⚡ Fun quote: **JavaScript is magic.**
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,7 +20,6 @@
 <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=white" alt="React.js"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logoColor=white" alt="Zustand"/>
 <img src="https://img.shields.io/badge/TanStack_Query-000000?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query"/>
 <img src="https://img.shields.io/badge/Shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn/ui"/>
