@@ -37,10 +37,10 @@
 
 <ul>
   <li>
-    <a href="https://mock-dashboard-omega.vercel.app/" target="_blank">
-      <strong>Luna Moments Demo</strong>
+    <a href="https://safehealthme.com" target="_blank">
+      <strong>Safe Health</strong>
     </a> 
-    (Admin Dashboard / Management System)
+    (Healthcare & Medical Tourism)
   </li>
   <li>
     <a href="https://a-g-fashion.com/" target="_blank">
@@ -61,10 +61,10 @@
     (Restaurant & Ordering System)
   </li>
   <li>
-    <a href="https://safehealthme.com" target="_blank">
-      <strong>Safe Health</strong>
+    <a href="https://mock-dashboard-omega.vercel.app/" target="_blank">
+      <strong>Luna Moments Demo</strong>
     </a> 
-    (Healthcare & Medical Tourism)
+    (Admin Dashboard / Management System)
   </li>
 </ul>
 </p>
