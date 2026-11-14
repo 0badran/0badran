@@ -61,10 +61,10 @@
     (CLI Tool / Published npm Package)
   </li>
   <li>
-    <a href="https://dahab-restaurant.vercel.app/" target="_blank">
-      <strong>Dahab Restaurant</strong>
+    <a href="https://shgarde.com" target="_blank">
+      <strong>Shgarde</strong>
     </a> 
-    (Restaurant & Ordering System)
+    (E-Commerce / Arabic & English Store)
   </li>
   <li>
     <a href="https://mock-dashboard-omega.vercel.app/" target="_blank">
