@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ahmed Badran</h1>
-<h3 align="center">Software Developer / Frontend Developer</h3>
+<h3 align="center">Frontend Developer | React & Next.js</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=0badran&label=Profile%20views&color=6B7280&style=plastic" alt="0badran" />
@@ -7,7 +7,7 @@
 
 * 💬 Ask me about: **React.js, Next.js**
 * 📧 How to reach me: **[E-mail](mailto:0ahmedbadran@gmail.com)**
-* 📃 Know about my experiences: **<a target="_blank" href="https://drive.google.com/file/d/1ELqsLIutSc-85DTKnH_oDp3_myiNpOzQ/view">****CV****</a>**
+* 📃 Know about my experiences: **<a target="_blank" href="https://drive.google.com/file/d/1ELqsLIutSc-85DTKnH_oDp3_myiNpOzQ/view">CV</a>**
 * ⚡ Fun quote: **JavaScript is magic.**
 
 <h3 align="left">Languages and Tools:</h3>
@@ -59,6 +59,8 @@
       <strong>toolg</strong>
     </a> 
     (CLI Tool / Published npm Package)
+    <a href="https://www.npmjs.com/package/toolg" target="_blank"><img src="https://img.shields.io/npm/v/toolg" alt="npm version"/></a>
+    <a href="https://www.npmjs.com/package/toolg" target="_blank"><img src="https://img.shields.io/npm/dm/toolg" alt="npm downloads"/></a>
   </li>
   <li>
     <a href="https://shgarde.com" target="_blank">
@@ -73,7 +75,7 @@
     (Admin Dashboard / Management System)
   </li>
 </ul>
-</p>
+
 <h3 align="left">Connect with me:</h3>
 
-<p>   <a href="https://linkedin.com/in/0badran" target="_blank">     <img       align="center"       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"       alt="ahmedbadran72"       height="30"       width="40"     />   </a>   <a href="https://leetcode.com/u/0badran" target="_blank"><img align="center" src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" height="30" width="30" /></a> </p>
+<p>   <a href="https://linkedin.com/in/0badran" target="_blank">     <img       align="center"       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"       alt="LinkedIn"       height="30"       width="40"     />   </a>   <a href="https://leetcode.com/u/0badran" target="_blank"><img align="center" src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" height="30" width="30" /></a> </p>
